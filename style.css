@@ -88,3 +88,9 @@ ul {
 
   justify-content: center;
 }
+
+ul img:hover {
+  border-radius: 50%;
+  transition: 0.5s;
+  filter: brightness(2);
+}
